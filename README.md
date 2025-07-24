@@ -11,8 +11,10 @@ JE REMERCIE LES 2 YOUTUBEURS CI-DESSOUS
 QUI M’ONT INSPIRE SANS LE SAVOIR
 MERCI A EUX
 Toute la partie électronique est de ma conception
+
 L'Ouche de Papouche
 www.youtube.com/@paperic
 
 manotechnologie
 www.youtube.com/@manotechnologie
+
