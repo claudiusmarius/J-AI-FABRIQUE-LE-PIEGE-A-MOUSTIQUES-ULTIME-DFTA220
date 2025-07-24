@@ -25,4 +25,12 @@ Pour le schéma et le PCB de la partie gestion du courant dans l'élément chauf
 
 https://github.com/claudiusmarius/DFT-A219
 
+Pour la partie alimentation j'ai utilisé le PCB du projet SMART TINY POWER DFTA179
 
+https://github.com/claudiusmarius/SMART-TINY-POWER-SUPPLY-DFTA179
+
+Le module convertisseur principal est un 12V (on peut voir sa référence sur la vidéo)
+
+j'ai ajouté un module 5V 500mA et un module 3.3V 500mA  (voir tableau des composants).
+
+idem pour le boitier voir le tableau des composants.
