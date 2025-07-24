@@ -34,3 +34,10 @@ Le module convertisseur principal est un 12V (on peut voir sa référence sur la
 j'ai ajouté un module 5V 500mA et un module 3.3V 500mA  (voir tableau des composants).
 
 idem pour le boitier voir le tableau des composants.
+
+Vidéo YouTube correspondant à ce projet :
+
+https://youtu.be/QfijaRFFcZo
+
+
+
