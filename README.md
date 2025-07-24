@@ -18,3 +18,5 @@ www.youtube.com/@paperic
 manotechnologie
 www.youtube.com/@manotechnologie
 
+Ce piège comme dit plus haut est un prototype dont je me sers pour trouver les meilleurs façons d'y amener les moustiques.
+Il est destiné à évoluer et ne tient pas compte de normes pour une exploitation par le grand public
