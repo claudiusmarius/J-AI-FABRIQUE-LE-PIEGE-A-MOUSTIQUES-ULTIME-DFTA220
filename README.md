@@ -25,7 +25,7 @@ Pour le schéma et le PCB de la partie gestion du courant dans l'élément chauf
 
 https://github.com/claudiusmarius/DFT-A219
 
-Pour la partie alimentation j'ai utilisé le PCB du projet SMART TINY POWER DFTA179
+Pour la partie alimentation j'ai utilisé le PCB du projet SMART TINY POWER SUPPLY DFTA179
 
 https://github.com/claudiusmarius/SMART-TINY-POWER-SUPPLY-DFTA179
 
